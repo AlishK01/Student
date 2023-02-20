@@ -1,0 +1,42 @@
+table.center{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: larger;
+    background-color: rgb(247, 244, 244);
+    color: white;
+    border-radius: 2px;
+    margin-bottom: 40px;
+}
+td,th{
+    border-radius: 10px;
+    height: 50px;
+    width: 1500px;
+    text-align: center;
+    background-color: rgb(53, 53, 53);
+}
+button{
+    border-style: hidden;
+    align-items: center;
+    font-size:medium;
+    color: white;
+    height: 40px;
+    background-color: rgb(8, 42, 128);
+    width: 6cm;
+    border-radius: 9px;
+}
+button:hover{
+    background-color: rgb(254, 61, 18);
+}
+.tbody{
+    background-color: rgb(248, 242, 242);
+    text-align: center;
+}
+.result{
+   margin:auto;
+    width: 500px;
+    height: 450px;
+    padding: 15px 30px 15px 200px;
+    font-size: 35px;
+    background-color: rgb(96, 245, 245);
+    display: none;
+}

@@ -1,0 +1,70 @@
+form {
+  color: black;
+  margin-top: 10px;
+  display: block;
+  overflow: hidden;
+  padding: 40px 10px 20px 10px;
+  font-size: larger;
+  width: 60%;
+  margin-inline-start: 120px;
+  font-weight: 220;
+}
+button {
+  align-items: center;
+  color: white;
+  background-color: rgb(2, 2, 65);
+  height: 35px;
+  width: 70px;
+  border-style: hidden;
+}
+button:hover {
+  background-color: black;
+}
+.fbody {
+  border: 2px solid rgb(2, 8, 58);
+  background-color: white;
+  align-content: center;
+  font-size: large;
+  display: inline-block;
+  width: 680px;
+  border-style: inherit;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.head {
+  text-align: center;
+}
+
+body {
+  background-image: url("../image/louise-viallesoubranne-5EhN4wbfvBc-unsplash.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  margin-bottom: 30px;
+}
+#fnam {
+  margin-left: 43px;
+}
+#lnam {
+  margin-left: 49px;
+}
+#ag {
+  margin-left: 90px;
+}
+#mail {
+  margin-left: 75px;
+}
+#num {
+  margin-left: 45px;
+}
+#address1 {
+  margin-left: 55px;
+  width: 200px;
+  height: 50px;
+}
+p {
+  background-color: white;
+  padding: 30px 0px 30px 0px;
+  font-size: 60px;
+  border: 30px solid rgb(4, 4, 88);
+}
